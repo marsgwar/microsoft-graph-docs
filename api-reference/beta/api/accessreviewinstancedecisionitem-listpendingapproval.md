@@ -84,7 +84,6 @@ GET https://graph.microsoft.com/beta/me/pendingAccessReviewInstances/70a68410-67
 
 ---
 
-
 ---
 
 

@@ -106,7 +106,6 @@ Content-Type: application/json
 
 ---
 
-
 ---
 
 #### Response
@@ -172,7 +171,6 @@ Content-Type: application/json
 
 ---
 
-
 ---
 
 #### Set status message: response
@@ -224,7 +222,6 @@ GET https://graph.microsoft.com/beta/users/fa8bf3dc-eca7-46b7-bad1-db199b62afc3/
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---
-
 
 ---
 

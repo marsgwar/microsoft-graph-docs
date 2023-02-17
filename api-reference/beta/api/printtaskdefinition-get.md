@@ -83,7 +83,6 @@ GET https://graph.microsoft.com/beta/print/taskDefinitions/fab143fd-ee61-4358-85
 
 ---
 
-
 ---
 
 ### Response

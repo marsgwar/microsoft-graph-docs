@@ -82,7 +82,6 @@ GET https://graph.microsoft.com/v1.0/directory/administrativeUnits/8a07f5a8-edc9
 
 ---
 
-
 ---
 
 ##### Response

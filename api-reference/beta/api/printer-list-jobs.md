@@ -79,7 +79,6 @@ GET https://graph.microsoft.com/beta/print/printers/{id}/jobs
 
 ---
 
-
 ---
 
 ### Response

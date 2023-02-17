@@ -164,7 +164,6 @@ GET https://graph.microsoft.com/beta/teams/{id}/installedApps/{id}?$expand=teams
 
 ---
 
-
 ---
 
 #### Response

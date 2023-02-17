@@ -83,7 +83,6 @@ GET https://graph.microsoft.com/beta/print/printers/{printerId}/taskTriggers/{ta
 
 ---
 
-
 ---
 
 ### Response

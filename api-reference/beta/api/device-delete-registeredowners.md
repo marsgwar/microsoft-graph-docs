@@ -86,7 +86,6 @@ DELETE https://graph.microsoft.com/beta/devices/{id}/registeredOwners/{id}/$ref
 
 ---
 
-
 ---
 
 ##### Response

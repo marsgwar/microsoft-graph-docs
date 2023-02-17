@@ -102,7 +102,6 @@ GET https://graph.microsoft.com/v1.0/me/authentication/emailMethods/3ddfcfc8-938
 
 ---
 
-
 ---
 
 

@@ -114,7 +114,6 @@ Content-type: application/json
 
 ---
 
-
 ---
 
 #### Response
@@ -199,7 +198,6 @@ Content-type: application/json
 
 ---
 
-
 ---
 
 #### Response
@@ -280,7 +278,6 @@ Content-Type: application/json
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---
-
 
 
 #### Response
@@ -368,7 +365,6 @@ Content-type: application/json
 
 ---
 
-
 ---
 
 #### Response
@@ -454,7 +450,6 @@ Content-type: application/json
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---
-
 
 
 #### Response
@@ -544,7 +539,6 @@ Content-type: application/json
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---
-
 
 #### Response
 

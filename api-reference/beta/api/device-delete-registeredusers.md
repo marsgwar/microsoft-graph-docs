@@ -76,7 +76,6 @@ DELETE https://graph.microsoft.com/beta/devices/{id}/registeredUsers/{id}/$ref
 
 ---
 
-
 ---
 
 ##### Response

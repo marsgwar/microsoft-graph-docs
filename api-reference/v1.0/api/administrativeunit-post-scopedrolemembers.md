@@ -94,7 +94,6 @@ Content-type: application/json
 
 ---
 
-
 ---
 
 In the request body, supply a JSON representation of [scopedRoleMembership](../resources/scopedrolemembership.md) object.

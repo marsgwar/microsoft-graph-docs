@@ -82,7 +82,6 @@ GET https://graph.microsoft.com/v1.0/directory/administrativeUnits/{id}/scopedRo
 
 ---
 
-
 ---
 
 ##### Response

@@ -89,7 +89,6 @@ GET https://graph.microsoft.com/beta/print/printers/{id}/taskTriggers
 
 ---
 
-
 ---
 
 ### Response
